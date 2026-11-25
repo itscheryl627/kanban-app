@@ -1,0 +1,6 @@
+# 此資料夾是 Downloads，只追蹤網頁專案檔案，其餘全部忽略
+*
+!.gitignore
+!index.html
+!style.css
+!app.js
